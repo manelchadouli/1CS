@@ -1,2 +1,1 @@
-# 1CS 
-web app about project management using vue js
+A* implementation algorithm using python
